@@ -5,7 +5,7 @@ iSpring HTML5/Flash Presentation Player SDK.
 ## Tutorials
 
 1. [Presentation embedding in a web page using iframe](html-samples/presentation_control.html)
-2. [Adding outline and navigation panel](guides/player-navigation-panel.md)
+2. [microsoft embeded](filemap.html)
 
 ## Player API Reference
 
